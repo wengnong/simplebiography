@@ -9,16 +9,16 @@ This repository contains a simple biography about Zhang Linghe, providing insigh
 - **[Social](https://wengnong.github.io/simplebiography/index3.html)**: Social Media Accounts and Related Profiles
 - **[Gallery](https://wengnong.github.io/simplebiography/index4.html)**: Photos of Zhang Linghe
 
-## Home
+### Home
 This section provides information about Zhang Linghe's background, accomplishments, and interesting facts.
 
-## Project
+### Project
 This section lists all the film projects that Zhang Linghe has been involved in, including past works and upcoming ones.
 
-## Social
+### Social
 This section contains links to Zhang Linghe's social media accounts, as well as other relevant social profiles related to him.
 
-## Gallery
+### Gallery
 Explore a collection of photos featuring Zhang Linghe.
 
 ## Usage
